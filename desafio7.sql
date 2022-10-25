@@ -5,7 +5,7 @@ SELECT
 FROM SpotifyClone.artistas AS ar
 INNER JOIN SpotifyClone.albuns AS al
 	ON ar.artista_id = al.artista_id
-INNER JOIN usuario_seguindo AS u
+INNER JOIN SpotifyClone.usuario_seguindo AS u
 	ON u.artista_id = al.artista_id
 GROUP BY al.album_id
 ORDER BY
