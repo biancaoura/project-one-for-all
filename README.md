@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# One for All Project
+
+## Goal
+
+### Learn how to create and manipulate MySQL tables:
+
+- Create a `Spotify`-like database;
+- create a diagram to help with normalization;
+- create tables and insert data into them;
+- use `JOIN`s;
+- do mathematical operations;
+- filter and group queries
+
+##
+
+> data provided by Trybe
