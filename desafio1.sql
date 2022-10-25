@@ -107,13 +107,13 @@ DROP DATABASE IF EXISTS SpotifyClone;
       ('BREAK MY SOUL', 1, 279),
       ('VIRGO''S GROOVE', 1, 369),
       ('ALIEN SUPERSTAR', 1, 116),
-      ('DON''T STOP ME NOW', 2, 203),
-      ('UNDER PRESSURE', 3, 152),
-      ('COMO NOSSOS PAIS', 4, 105),
-      ('O MEDO DE AMAR É O MEDO DE SER LIVRE', 5, 207),
-      ('SAMBA EM PARIS', 6, 267),
-      ('THE BARD''S SONG', 7, 244),
-      ('FEELING GOOD', 8, 100);
+      ('Don''t Stop Me Now', 2, 203),
+      ('Under Pressure', 3, 152),
+      ('Como Nossos Pais', 4, 105),
+      ('O Medo de Amar é o Medo de Ser Livre', 5, 207),
+      ('Samba em Paris', 6, 267),
+      ('The Bard''s Song', 7, 244),
+      ('Feeling Good', 8, 100);
   
   INSERT INTO usuario_seguindo(usuario_id, artista_id)
   VALUES
